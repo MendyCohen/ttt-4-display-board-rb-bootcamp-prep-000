@@ -22,6 +22,6 @@ def display_board(board)
   puts "   ""|""   " "|""   "
  end
  
- boad = ["", "", "", "", "X", "", "", "", ""]
- display_board(boad)
+ board = ["", "", "", "", "X", "", "", "", ""]
+ display_board(board)
  
