@@ -11,8 +11,8 @@
 #  puts "#{board[6]}   ""|""#{board[7]}   " "|""#{board[8]}   "
 #end
 #
-#move = ["", "", "", "", "", "", "", "", ""]
-#display_board(move)
+#board = ["", "", "", "", "", "", "", "", ""]
+#display_board(board)
 
  
  
