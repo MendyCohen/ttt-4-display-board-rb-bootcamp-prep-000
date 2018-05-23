@@ -163,8 +163,8 @@ describe "#display_board in 'lib/display_board.rb" do
       # Then edit the following lines to represent a board entirely filled with X.
       # Remember, every space and every character is important.
 
-       *** Edit the lines below ***
-       *** Uncomment the lines below ***
+       #*** Edit the lines below ***
+       #*** Uncomment the lines below ***
        expect(rows[0]).to eq(" X | X | X ")
        expect(rows[1]).to eq("-----------")
        expect(rows[2]).to eq(" X | X | X ")
