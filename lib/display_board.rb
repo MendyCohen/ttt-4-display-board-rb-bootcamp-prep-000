@@ -25,5 +25,5 @@ def display_board(board)
  end
  
 board = ["", "", "", "", "X", "", "", "", ""]
-puts display_board(board)
+puts display_board(board[4])
  
