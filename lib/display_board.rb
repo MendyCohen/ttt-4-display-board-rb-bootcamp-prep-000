@@ -14,6 +14,9 @@
 #move = ["", "", "", "", "", "", "", "", ""]
 #display_board(move)
 
+ board = ["", "", "", "", "X", "", "", "", ""]
+ display_board(board)
+ 
 def display_board(board) 
   puts "   ""|""   ""|""   "
   puts "-----------"
@@ -22,6 +25,5 @@ def display_board(board)
   puts "   ""|""   " "|""   "
  end
  
- board = ["", "", "", "", "X", "", "", "", ""]
- display_board(board)
+
  
